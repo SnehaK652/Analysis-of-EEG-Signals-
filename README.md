@@ -64,6 +64,6 @@ The above figure a) and b) consists of Frequency vs PSD c) Regression line d) Re
 
 ![image](https://github.com/user-attachments/assets/dede1620-1dec-402f-9a0c-3428b47cf2ac)
 
-The above figure 7.2 a) and b) consists of Frequency vs PSD c) Regression line d) Residual plot and e) regression parameters which indicates a partially focused and partially alert mind state, resulting in both alpha and beta waves in the brain.
+The above figure a) and b) consists of Frequency vs PSD c) Regression line d) Residual plot and e) regression parameters which indicates a partially focused and partially alert mind state, resulting in both alpha and beta waves in the brain.
 
 This project bridges neuroscience and machine learning to explore how meditation influences brain activity and enhances concentration.
